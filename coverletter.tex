@@ -1,4 +1,4 @@
- \documentclass[10pt,letterpaper]{article}
+\documentclass[10pt,letterpaper]{article}
 \usepackage[margin=1in]{geometry}
 \usepackage[dvipsnames]{xcolor}
 \usepackage{hyperref}
@@ -6,34 +6,52 @@
 \usepackage{fontawesome5}
 \input{config.tex}
 
+
 \begin{document}
 
 % --- Header ---
 \noindent
-\textbf{\Large \Name} \\
+\textbf{\LARGE \Name} \\
 \Location \\
-\href{mailto:\Email}{\Email} | \Phone \\
-\href{\LinkedIn}{LinkedIn} | \href{\GitHub}{GitHub} \\[1em]
+\href{mailto:\Email}{\Email} \quad | \quad \Phone \\
+\href{\LinkedIn}{linkedin/allen.reinoso} \quad | \quad \href{\GitHub}{github/Allenreinoso28} \\[1em]
 
-\today \\[1em]
+\today \\[0.75em]
 
-\textbf{Hiring Manager} \\
-Company Name \\
-Company Address \\
-City, Province \\[1em]
+\textbf{\CompanyName} \\
+\CompanyAddress \\
+\CompanyCity \\[1em]
 
-\textbf{Re: Application for [Position Title] Co-op}
+\textbf{Re: Application for \PositionTitle{} Co-op Position} \\[1em]
 
 Dear Hiring Manager, \\[1em]
 
-I am a Computer Science student at Toronto Metropolitan University applying for the [Position Title] Co-op at [Company Name]. With hands-on experience developing full-stack web applications using React, Python, and cloud tools, I’m eager to contribute my technical and collaborative skills to your team.
+I am a third-year Computer Science student in the Co-op program at Toronto Metropolitan University, maintaining a 3.85/4.33 GPA. 
+I am excited to apply for the \PositionTitle{} Co-op position at \CompanyName{}. 
+With hands-on experience developing \RelevantSkills{}, I am eager to contribute my technical, analytical, and collaborative skills to your team.
 
-[1–2 body paragraphs: highlight your most relevant projects or experiences.]
+As the Lead Web Developer for TMU’s robotics team, I developed a React-based dashboard 
+to visualize real-time rover data, integrating ROS2 and WebSockets to enhance performance during the University Rover Challenge. 
+This experience strengthened my understanding of scalable UI design, modular development, and agile collaboration within a multidisciplinary team. 
+Additionally, my coursework in Data Structures, Software Engineering, and AI/ML has given me a strong foundation in problem-solving and software architecture.
 
-I’m excited about the opportunity to contribute to [specific company or project focus]. I look forward to the possibility of discussing how I can add value to your team. Thank you for your time and consideration.
+Beyond my technical experience, I bring strong teamwork and leadership skills from my role as a 
+Crew Trainer at McDonald’s, where I mentored new team members, managed priorities under pressure, 
+and maintained high performance standards. These experiences reinforced my ability to communicate clearly 
+and collaborate effectively, which I believe are both essential in fast-paced development environments.
 
-\\[1em]
-Sincerely, \\
-\Name
+I am particularly drawn to \CompanyName{} because of \RelevantMission{}. 
+I am inspired by your focus on \RelevantReason{}, and I am eager to apply my skills to support your ongoing projects 
+while continuing to grow as a \PositionTitle{} within your organization. 
+
+Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute 
+to \CompanyName{}’s success. \\[2em]
+
+Sincerely, \\[0.75em]
+\Name{} (He/Him) \\
+Third-Year B.Sc. (Hons Co-op) Computer Science Candidate \\
+Toronto Metropolitan University
 
 \end{document}
+
+

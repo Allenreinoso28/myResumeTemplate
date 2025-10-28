@@ -1,75 +1,67 @@
-SOFTWARE ENGINEER
-locations
-Ontario, CAN - Remote
-time type
-Full time
-posted on
-Posted 6 Days Ago
-job requisition id
-25WD92520
-Job Requisition ID #
+Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.
 
-25WD92520
-Position Overview 
+The Role
+We're looking for passionate Software Engineering Interns to join our engineering teams for a hands-on learning experience. As an intern, you'll partner with experienced engineers to solve real-world problems, contribute to our codebase, and help build products used by millions of people. This internship offers meaningful projects, mentorship, and the opportunity to make a tangible impact while developing your technical skills.
 
-Autodesk is a global leader in 3D design, engineering, and entertainment software. The work we do at Autodesk gets to touch nearly every person on the planet. By creating software tools for making buildings, machines, and even the latest movie, we get to influence and empower some of the most creative people in the world to solve problems that matter.
+Engineering Disciplines
 
-We’re looking for a Software Engineer Intern to join the Growth Experience Technology checkout team. You’ll help build and maintain the core components powering Autodesk’s ecommerce experience, collaborating with a cross-functional team to solve real customer problems and shape the next generation of our checkout platform.
+We offer internship opportunities across multiple engineering disciplines:
 
-Responsibilities
+Frontend Engineering
+Backend Engineering
+Platform Engineering
+Mobile Engineering - iOS
+Mobile Engineering - Android
+You Will:
 
-Design and implement testable, readable, and effective production quality code
-Develop, build and test automations
-Actively participate in team meetings and practice Agile mindset throughout the software development lifecycle
-Minimum Qualifications 
+Collaborate with engineers to complete features for Block's product ecosystem
+Write clean, efficient, and maintainable code that meets our standards for quality and performance
+Participate in code reviews to receive feedback and improve your technical skills
+Debug issues and help improve our systems' reliability and performance
+Learn industry best practices for software development, testing, and deployment
+Attend technical workshops, learning sessions, and social events designed for interns
+Present your project work to team members and leadership at the end of your internship
+You Have:
 
-Student must be actively enrolled in a degree granting academic institution or accredited boot camp at the time of internship
-Coding and scripting skills in languages like TypeScript, Java, Python, JavaScript
-Strong knowledge in Computer Science fundamentals
-Strong verbal and written communication skills in English
-Works effectively both independently and as a member of a cross-functional team
-Keen eye for detail, meticulous and analytically minded
-Preferred Qualifications 
+Basic Qualifications
+Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related technical field with a graduation date between May 2027 and May 2028
+Programming experience in at least one language (e.g., Java, Kotlin, Swift, JavaScript, Python, Ruby, Go)
+Understanding of fundamental data structures and algorithms
+Familiarity with basic software development concepts and practices
+Experience ensuring that code meets all functionality and acceptance criteria
+Experience troubleshooting issues with users
+Preferred Qualifications
+Previous internship, project, or coursework experience in software development
+For Frontend: Experience with modern JavaScript frameworks (React, Vue, Angular)
+For Backend: Knowledge of API design, databases, and server-side development
+For Infrastructure: Familiarity with cloud platforms (AWS, GCP) or containerization (Docker, Kubernetes)
+For iOS: Experience with Swift, UIKit, or SwiftUI
+For Android: Experience with Kotlin or Java for Android development
+Experience with version control systems (e.g., Git)
+Interest in financial technology and commerce solutions
+Demonstrated experience building user-focused products
+Internship Details
+Duration: 12 weeks -16 weeks (Summer 2026)
+Location: Toronto, ON / Remote (CAN)
+What We Offer
+Real-World Projects: Work on meaningful projects that impact our products and customers
+Mentorship: One-on-one guidance from experienced engineers dedicated to your growth
+Community: Join a cohort of talented interns across teams and disciplines
+Learning Opportunities: Technical workshops, speaker series, and skill-building sessions
+Career Development: Gain insights into several engineering career paths at Block
+Inclusive Culture: Experience our commitment to building a diverse and equitable workplace
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We also consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
 
-Pursuing Bachelor's or Master's degree in Computer Science or related field of study
-Previous intern/FTE experience
-Experience with AWS, Cloud, Distributed systems
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations throughout the recruitment process. If you require an accommodation, let your recruiter know.
 
- 
+Want to learn more about what we’re doing to build an inclusive workplace? Check out our Inclusion & Diversity page.
 
-About the Canada Intern Program 
+Use of AI in Our Hiring Process
 
-The 2026 Canada Internship program runs for 16 weeks (May 4th – August 21st, 2026). All internships are paid. As an intern, you will contribute to meaningful projects, be mentored by industry leaders, and participate in tech talks and other activities designed to support your personal and professional development. Our internships align with Autodesk’s Flexible Workplace approach, which is designed to meet the needs of our business while providing flexibility in support of office, remote and hybrid work preferences. 
+We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. 
 
-Learn More
+Contact us at privacy@block.xyz with hiring practice or data usage questions.
 
-About Autodesk
+Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering. Check out our other benefits at Block.
 
-Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
-
-We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
-
-When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
-
-Salary transparency
-
-Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience, educational level, and geographic location.
-
-Diversity & Belonging
-We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/diversity-and-belonging
-
-Similar Jobs (2)
-Intern, Construction AI Agent Research (Winter 2026)
-locations
-2 Locations
-time type
-Full time
-posted on
-Posted 14 Days Ago
-Intern, Machine Learning Operations Engineer
-locations
-3 Locations
-time type
-Full time
-posted on
-Posted 5 Days Ago
+Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.

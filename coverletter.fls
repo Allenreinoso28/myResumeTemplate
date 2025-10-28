@@ -105,9 +105,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-map
 INPUT ./config.tex
 INPUT ./config.tex
 INPUT config.tex
-INPUT ./coverletter.config.tex
-INPUT ./coverletter.config.tex
-INPUT coverletter.config.tex
 INPUT ./coverletter.aux
 INPUT ./coverletter.aux
 INPUT coverletter.aux
@@ -126,3 +123,10 @@ OUTPUT coverletter.pdf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT coverletter.aux
+INPUT ./coverletter.out
+INPUT ./coverletter.out
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

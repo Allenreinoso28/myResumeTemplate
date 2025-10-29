@@ -1,0 +1,86 @@
+Perseus Group, Constellation Software logo
+Perseus Group, Constellation Software
+Share
+Show more options
+Software Developer Intern 
+Markham, ON · 5 days ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+
+
+ On-site
+Matches your job preferences, workplace type is On-site.
+
+Full-time
+
+Apply
+
+Save
+Save Software Developer Intern  at Perseus Group, Constellation Software
+Your profile was shared with the job poster. Undo shared profile with the job posterUndo
+Did you apply?
+
+Let us know, and we’ll help you track your application.
+
+
+Yes
+
+No
+Software Developer Intern
+Perseus Group, Constellation Software · Markham, ON (On-site)
+
+Apply
+
+Save
+Save Software Developer Intern  at Perseus Group, Constellation Software
+Show more options
+Your profile is missing required qualifications
+
+Show match details
+
+BETA
+
+Is this information helpful?
+
+
+
+People you can reach out to
+Toronto Metropolitan University logo
+Toronto Metropolitan University logo
+School alumni from Toronto Metropolitan University
+
+Show all
+About the job
+THE POSITION
+
+The successful Software Developer Intern works in our Markham Ontario office and reports to our Solutions Architect for the homebuilding industry’s leading-edge enterprise software product.
+
+The Software Developer Intern works in a Scrum team to create high performing, resilient and manageable web-based ERP software applications for homebuilders. Responsibilities include:
+
+Hands-on development for homebuilding software solutions of high quality
+Collaborating on how to accelerate deliveries within existing staffing.
+Caring deeply about homebuilder user experiences, implementations, ongoing operational success, and doing whatever it takes to turn a product that customers need into a product they want for life
+Ability to manage work items in tight deadlines
+Study and Understand our application's functionality, workflow, and design.
+Collect, organize, and preprocess application knowledge
+Develop an AI model that can respond to queries about using the application
+Implement Retrieval-Augmented Generation (RAG) pipelines
+Experiment and Track with prompt engineering, fine-tuning, and embeddings to improve relevance and accuracy
+Test, evaluate, and refine the model's performance with real-world queries.
+Document the process and provide recommendations for scaling and future enhancements
+
+Qualifications And Skills
+
+Be working from the Markham Ontario office
+Understanding of software requirements
+Experience building multi-tier, distributed web solutions with an emphasis on Responsive Design
+Understanding of software development best practices, using a common code repository within a multi developer team environment, effective implementation strategies
+Hands-on experience in Full Stack Development:
+HTML5, TypeScript, JavaScript, Stylesheets
+.NET
+SQL Query
+Knowledge in Object-Oriented Design
+Knowledge in Test Driven Development
+Ability to perform Unit Testing as well as Integration Testing
+Applicants with disabilities who would like to require a reasonable accommodation related to any part of the application process may contact us at Perseus_HR@constellationhbs.com.
+
+#Newstar

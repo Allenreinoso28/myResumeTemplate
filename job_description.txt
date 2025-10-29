@@ -1,0 +1,88 @@
+Term Posted:	2026 - Summer
+Number of Positions:	1
+Job Duration:	
+4 Months
+Salary (Or Enter Range):	TBD
+Hours Per Week (WHOLE number only, please round up or down. i.e. 36.25 -> 37):	35
+Co-op Student Position Title:	Software Developer Intern (Fullstack) - Co-op -May 2026 [481251]
+Job Location:	Toronto, ON (Hybrid)
+Job Description:	
+NOTE: Please apply both externally and internally (co-op portal). You are only required to submit the same documents requested by the employer. Applications may be reviewed on a rolling basis, so we encourage you to apply as soon as possible.
+
+
+
+Change the future with us.
+
+We are passionate about innovations that mean real progress. We are excited about technologies that still need to be developed. What about you? Do you want to use your curiosity, passion, and creativity to make the lives of millions of people easier and better? Join us as a graduate -either by beginning your career with us or through a co-op placement. Whichever path you take, we're looking forward to seeing your perspective.
+
+Why you'll love working for Siemens!
+
+Freedom and a healthy work- life balance- Embrace our flexible work environment with flex hours, telecommuting and digital workspaces.
+Solve the world's most significant problems - Be part of exciting and innovative projects.
+Engaging, challenging, and fast evolving, cutting edge technological environment.
+Opportunities to advance your career and mentorship programs on a local and global scale.
+Competitive total rewards package
+Contribute to our social responsibility initiatives focused on access to education, access to technology and sustaining communities and make a positive impact on the community.
+Participate in our celebrations, social events and offsite business events.
+Opportunities to contribute your innovative ideas and get paid for them!
+Employee perks and discounts.
+Diversity and inclusivity focused.
+Siemens is proud to be an eight-time award winner of Canada's Top 100 Employers, Canada's Greenest Employers 2025 and Canada's Top Employers for Young People 2025.
+
+What will you do?
+
+Brightly continues to grow, and it needs a tech savvy intern to support its team of amazing engineers. This opportunity is an excellent fit for a student in Computer Science/Engineering or related field. The intern will work alongside our top-notch engineers and product team to implement, deliver and support our highly ambitious products and integrations. We care deeply about your passion and dedication to the craft of software.
+
+Learn and contribute to how we build innovative and performant features into our software applications.
+Write clear, maintainable, and well-tested code, adhering to established standards.
+Contribute to unit and integration testing to ensure quality.
+Participate in agile ceremonies.
+Learn about the product lifecycle with other engineers, development managers, and product managers.
+Be a part of continuous process improvement.
+What will you need to succeed?
+
+Enrolled in 3rd or 4th in a university program with a major in Computer Science/Engineering
+Experience with Object-Oriented Programming, Data Structures, Algorithms, or Web Programming. Ideally with experience in the following:
+C#
+JavaScript/TypeScript
+Modern SPA Frameworks
+A collaborative mindset.
+A drive to improve yourself and the team you work with.
+Technologies
+
+MS SQL Server
+C# - .NET Framework and .NET 8
+Github Copilot
+tSQLt, XUnit
+Visual Studio and SQL Server Management Studio
+Angular
+Redgate SQL Source Control
+Version Control Systems like Git/SVN
+About us.
+
+We share our ideas and champion the people behind them.
+
+Siemens Canada is a leading technology company focused on industry, infrastructure, mobility and healthcare. The company's purpose to is to create technology with purpose, transforming the everyday, for everyone, since 1912. By combining the real and the digital worlds, Siemens empowers its customers to accelerate their digital and sustainability transformations, making factories more efficient, cities more liveable, and transportation more sustainable. Siemens also owns a majority stake in the publicly listed company Siemens Healthineers, a leading global medical technology provider pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+In fiscal 2024, which ended September 30, 2024, Siemens Canada had revenues of approx. $2.2 billion CAD. The company has approximately 4,400 employees from coast-to-coast and 37 office and production facilities across Canada.
+
+To learn more about Siemens Canada, visit our website at www.siemens.com
+
+While we appreciate all applications we receive, we advise that only candidates under consideration will be contacted.
+
+#LI-Hybrid
+
+
+Siemens is committed to creating a diverse environment and is proud to be an equal opportunity employer. Upon request, Siemens Canada will provide reasonable accommodation for disabilities to support participation of candidates in all aspects of the recruitment process. All qualified applicants will receive consideration for employment.
+
+By submitting personal information to Siemens Canada Limited or its affiliates, service providers and agents, you consent to our collection, use and disclosure of such information for the purposes described in our Privacy Notice available at www.siemens.ca.
+
+Siemens s'engage à créer un environnement diversifié et est fière d'être un employeur souscrivant au principe de l'égalité d'accès à l'emploi. Sur demande, Siemens Canada prendra des mesures d'accommodement raisonnables pour les personnes handicapées, dans le but de soutenir la participation des candidats dans tous les aspects du processus de recrutement. Tous les candidats qualifiés seront pris en considération pour ce poste.
+
+En transmettant des renseignements personnels à Siemens Canada limitée ou à ses sociétés affiliées, à ses fournisseurs de services ou à ses agents, vous nous autorisez à recueillir, à utiliser et à divulguer ces renseignements aux fins prévues dans notre Déclaration de protection de la confidentialité, que vous pouvez consulter au www.siemens.ca.
+Targeted Degrees and Disciplines:	
+View Targeted Programs
+Application Information
+Application Deadline:	November 12, 2025 11:59 PM
+Application Documents Required:	Resume
+Application Method:	Directly with Company
+https://jobs.siemens.com/en_US/externaljobs/JobDetail/481251?jobPipeline=Indeed

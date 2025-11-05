@@ -1,57 +1,53 @@
-\documentclass[10pt,letterpaper]{article}
-\usepackage[margin=1in]{geometry}
-\usepackage[dvipsnames]{xcolor}
-\usepackage{hyperref}
-\usepackage{parskip}
-\usepackage{fontawesome5}
-\input{config.tex}
+\documentclass[11pt,letterpaper]{article}
 
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{lmodern}
+
+\input{config.tex}
 
 \begin{document}
 
-% --- Header ---
-\noindent
-\textbf{\LARGE \Name} \\
+\begin{flushleft}
+\Name \\
 \Location \\
-\href{mailto:\Email}{\Email} \quad | \quad \Phone \\
-\href{\LinkedIn}{linkedin/allen.reinoso} \quad | \quad \href{\GitHub}{github/Allenreinoso28} \\[1em]
+\Phone \\
+\Email \\
+\LinkedIn \\
+\GitHub \\
+\end{flushleft}
 
-\today \\[0.75em]
+\vspace{1em}
 
-\textbf{\CompanyName} \\
+\begin{flushleft}
+\CompanyName \\
 \CompanyAddress \\
-\CompanyCity \\[1em]
+\CompanyCity \\
+\end{flushleft}
 
-\textbf{Re: Application for \PositionTitle{} Co-op Position} \\[1em]
+\vspace{1.5em}
 
-Dear Hiring Manager, \\[1em]
+\textbf{Re: \PositionTitle}
 
-I am a third-year Computer Science student in the Co-op program at Toronto Metropolitan University, maintaining a 3.85/4.33 GPA. 
-I am excited to apply for the \PositionTitle{} Co-op position at \CompanyName{}. 
-With hands-on experience developing \RelevantSkills{}, I am eager to contribute my technical, analytical, and collaborative skills to your team.
+\vspace{1em}
 
-As the Lead Web Developer for TMU’s robotics team, I developed a React-based dashboard 
-to visualize real-time rover data, integrating ROS2 and WebSockets to enhance performance during the University Rover Challenge. 
-This experience strengthened my understanding of scalable UI design, modular development, and agile collaboration within a multidisciplinary team. 
-Additionally, my coursework in Data Structures, Software Engineering, and AI/ML has given me a strong foundation in problem-solving and software architecture.
+Dear SHN Co-op Placement Coordinator,
 
-Beyond my technical experience, I bring strong teamwork and leadership skills from my role as a 
-Crew Trainer at McDonald’s, where I mentored new team members, managed priorities under pressure, 
-and maintained high performance standards. These experiences reinforced my ability to communicate clearly 
-and collaborate effectively, which I believe are both essential in fast-paced development environments.
+I hope this message finds you well. My name is \Name, and I am a third-year Computer Science co-op student at Toronto Metropolitan University, maintaining a strong academic standing with a 3.85 GPA. I am writing to express my interest in contributing to \CompanyName\ through a co-op placement focused on software development, digital health systems, or data-driven technology solutions.
 
-I am particularly drawn to \CompanyName{} because of \RelevantMission{}. 
-I am inspired by your focus on \RelevantReason{}, and I am eager to apply my skills to support your ongoing projects 
-while continuing to grow as a \PositionTitle{} within your organization. 
+What draws me to SHN is the meaningful connection between technology and compassionate patient care. I am inspired by SHN’s commitment to improving the accessibility, reliability, and efficiency of healthcare services across our community. I am motivated by the opportunity to support initiatives that enhance clinical workflows, improve information systems, and ultimately help deliver better experiences and outcomes for patients and staff.
 
-Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute 
-to \CompanyName{}’s success. \\[2em]
+My technical background includes hands-on experience building real-time and data-centric applications. As the Lead Web Developer for TMU’s robotics team, I designed and implemented a real-time operational dashboard using React, TypeScript, and WebSockets to interface with hardware in the field. This project strengthened my ability to collaborate in interdisciplinary environments and develop reliable, user-centered systems. I also have strong experience in Python, SQL, Docker, and cloud-based development, alongside coursework in software engineering, algorithms, and data management.
 
-Sincerely, \\[0.75em]
-\Name{} (He/Him) \\
-Third-Year B.Sc. (Hons Co-op) Computer Science Candidate \\
-Toronto Metropolitan University
+I would welcome the chance to bring my technical skills, curiosity, and dedication to SHN’s mission. I would be happy to provide any additional materials you may require, including my resume, academic transcript, and references.
+
+Thank you very much for your time and consideration. I look forward to the possibility of contributing to a team that is making a meaningful impact in our communities.
+
+\vspace{1.5em}
+
+Warm regards, \\
+\Name
 
 \end{document}
-
-

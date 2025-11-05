@@ -1,0 +1,77 @@
+Organization Name	SOTI Inc.
+Job Posting Information
+Term Posted:	2026 - Summer
+Number of Positions:	1
+Job Duration:	
+12 Months
+Salary (Or Enter Range):	TBD
+Hours Per Week (WHOLE number only, please round up or down. i.e. 36.25 -> 37):	40
+Co-op Student Position Title:	Software Developer Intern - Kotlin (May 2026 12 Months) [R09474]
+Job Location:	Mississauga, ON (Hybrid)
+Job Description:	
+NOTE: Please apply both externally and internally (co-op portal). You are only required to submit the same documents requested by the employer. Applications may be reviewed on a rolling basis, so we encourage you to apply as soon as possible.
+
+
+
+Join us and assimilate cutting edge tech knowledge at SOTI: Next Gen!
+
+
+
+
+Who We Are:
+
+At SOTI, we are committed to delivering best in class mobile and IoT device management solutions. We are looking for out of the box thinkers that appreciate the art of creating great software.
+To us, being visionary is more important than doing things the way they've always been done.
+
+
+
+What's in it for you?
+
+The People - From our humble origins in our founder's basement, to our industry leading position today, SOTI has worked hard to foster a company culture that we can all believe in. A culture that emphasizes personal growth, continuous innovation and fun.
+
+
+
+The Growth - Our environment fosters new ideas, fresh perspectives, and the ability to take them over the goal line. SOTI is a fast-paced environment with a global reach that encourages you to make your mark and be part of something big!
+
+
+
+The Technology - You'll get the chance to work with leading edge technologies and take on complex and interesting projects, as part of highly collaborative and agile teams. You will work alongside SOTI's partners which include leading tech giants that will keep you on the cusp of emerging technologies.
+
+
+What You'll Do
+
+Enhance your programming skills by working in a team alongside experienced team members
+
+Gain an understanding of how various roles work together to deliver software products: Developers, Architects, Quality Assurance, User Experience, Product Management, Software Development, Marketing, etc.
+
+Gain an understanding of how user requirements are gathered, and the various processes used to translate real-world problems into software solutions
+
+Understand the tools and processes used to develop professional software products e.g. Jira, Git
+
+Understand the testing processes and frameworks used to deliver high quality software products
+
+
+Qualifications:
+
+Knowledge of algorithms, data structures and database fundamentals
+
+Basic knowledge of Software Development Life Cycle concepts
+
+Strong math, analytic and problem-solving skills
+
+Basic knowledge of programming in one or more of the following programming languages: C, C++, Java, JavaScript, SQL, Ruby, Rust, Lua, Haskell.
+
+Most importantly curiosity, a desire to learn and be a part of a team
+
+
+
+Targeted Degrees and Disciplines:	
+View Targeted Programs
+Application Information
+Application Deadline:	November 28, 2025 11:59 PM
+Application Documents Required:	Cover Letter,Resume
+Application Method:	Directly with Company
+https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2026-12-Months-_R09474
+Company Info
+Organization:	SOTI Inc.
+Division:	SOTI Head Office

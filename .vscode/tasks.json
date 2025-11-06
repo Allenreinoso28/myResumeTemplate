@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+        "label": "Auto Merge PDFs",
+        "type": "process",
+        "command": "${workspaceFolder}/.venv/bin/python",
+        "args": [
+            "combine.py"
+        ],
+        "isBackground": true,
+        "problemMatcher": [],
+        "options": {
+            "cwd": "${workspaceFolder}"
+        }
+    }
+]
+}

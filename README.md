@@ -21,3 +21,7 @@ pip install PyPDF2
 
 ✅ Run your script:
 python combine.py
+
+or 
+
+cmd + shift + p -> Tasks: Run Tasks -> Auto Merge PDFS

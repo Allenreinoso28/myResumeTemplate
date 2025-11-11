@@ -1,0 +1,15 @@
+Toronto MetRobotics (Lead Web Developer) — 3 points
+
+    - Built and maintained a real-time rover dashboard using React, TypeScript, TailwindCSS, and WebSockets to display telemetry and controls with low latency.
+
+    - Implemented a Python-based messaging relay (pub/sub model) and documented interface contracts to support integration across robotics sub-teams.
+
+    - Collaborated with multidisciplinary hardware, controls, and software teams to translate rover data into clear, actionable UI components and visual indicators.
+
+McDonald’s (Crew Trainer) — 3 points
+
+    - Trained and supported new employees, providing clear instruction and feedback to help them quickly adapt to a fast-paced environment.
+
+    - Coordinated tasks and communication during high-volume hours to maintain workflow efficiency, service quality, and team performance.
+
+    - Demonstrated reliability under pressure by managing priorities, resolving customer issues, and maintaining consistently high service standards.

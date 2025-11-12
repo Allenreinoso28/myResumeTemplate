@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762389633.59883 "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/coverletter.tex" "coverletter.pdf" "coverletter" 1762389634.07518 0
-  "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/coverletter.tex" 1762389633.38164 2484 49a67fbaca5e6bb8153caa61396a6dd2 ""
+["pdflatex"] 1762970092.82012 "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/coverletter.tex" "coverletter.pdf" "coverletter" 1762970093.57505 0
+  "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/coverletter.tex" 1762970092.60286 2648 3d4de698262aa19a380e3cfe6175327e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -58,10 +58,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1758678592 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "config.tex" 1762388115.13486 888 b92cdf2f4144000e35a23c4331ad851f ""
-  "coverletter.aux" 1762389634.04228 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "coverletter.out" 1762389633.90434 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "coverletter.tex" 1762389633.38164 2484 49a67fbaca5e6bb8153caa61396a6dd2 ""
+  "config.tex" 1762969901.016 1075 d6a606c7091aa514c114559da23ed37b ""
+  "coverletter.aux" 1762970093.52093 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "coverletter.out" 1762970093.28378 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "coverletter.tex" 1762970092.60286 2648 3d4de698262aa19a380e3cfe6175327e ""
   (generated)
   "coverletter.aux"
   "coverletter.log"

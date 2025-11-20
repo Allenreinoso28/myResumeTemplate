@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762285638.53537 "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/resume.tex" "resume.pdf" "resume" 1762285639.16047 0
-  "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/resume.tex" 1762285638.24804 11929 2ae0f86d2f7c4634add848cd29996e80 ""
+["pdflatex"] 1763612710.43261 "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/resume.tex" "resume.pdf" "resume" 1763612711.02328 0
+  "/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/resume.tex" 1763612710.20471 11939 a88306999c72ad28ec2c0c880b62b1d0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -119,9 +119,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1758678592 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "config.tex" 1762285638.24215 888 b92cdf2f4144000e35a23c4331ad851f ""
-  "resume.aux" 1762285639.08375 1393 c0ee91b1c0df43e707add02d58811d5f "pdflatex"
-  "resume.tex" 1762285638.24804 11929 2ae0f86d2f7c4634add848cd29996e80 ""
+  "config.tex" 1763612678.11081 888 b92cdf2f4144000e35a23c4331ad851f ""
+  "resume.aux" 1763612710.9497 1393 c0ee91b1c0df43e707add02d58811d5f "pdflatex"
+  "resume.tex" 1763612710.20471 11939 a88306999c72ad28ec2c0c880b62b1d0 ""
   (generated)
   "resume.aux"
   "resume.log"

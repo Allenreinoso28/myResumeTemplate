@@ -3,7 +3,7 @@ import os
 from PyPDF2 import PdfMerger, PdfReader
 
 
-PDF_FILES = ["application_package.pdf", "Reinoso Allen Sem 5 Unofficial Transcript.pdf"]
+PDF_FILES = ["application_package.pdf", "Allen_Reinoso_UnofficalTranscriptFall25.pdf"]
 OUTPUT_FILE = "full_application_package.pdf"
 
 def merge_pdfs():

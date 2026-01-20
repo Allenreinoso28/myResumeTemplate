@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  13 JAN 2026 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 JAN 2026 09:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,7 +307,7 @@ Overfull \hbox (21.76367pt too wide) in paragraph at lines 60--63
 \T1/lmr/m/n/10 Toronto, ON | allen.j.reinoso@gmail.com | 647-335-1452 | [][]al-len-reinoso.com[][] | [][]linkedin/allen-reinoso[][] | [][]github/Allenreinoso28[][] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 83.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 90.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -320,21 +320,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 08DD7925239F5A7A93F67CF11B91B404;511.
+(rerunfilecheck)             Checksum: 33313B3F8D641106E32B991D35AF045E;657.
  ) 
 Here is how much of TeX's memory you used:
- 9601 strings out of 473190
- 148803 string characters out of 5715801
- 566253 words of memory out of 5000000
- 32765 multiletter control sequences out of 15000+600000
+ 9603 strings out of 473190
+ 148823 string characters out of 5715801
+ 568253 words of memory out of 5000000
+ 32766 multiletter control sequences out of 15000+600000
  574961 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,310b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
-Output written on resume.pdf (1 page, 95302 bytes).
+Output written on resume.pdf (1 page, 95936 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

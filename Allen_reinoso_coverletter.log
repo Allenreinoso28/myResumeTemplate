@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 JAN 2026 12:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  22 JAN 2026 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/coverletter.tex
-(/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/coverletter.tex
+**/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/Allen_reinoso_coverletter.tex
+(/Users/allenreinoso/Documents/GitHub/myResumeTemplateF25/Allen_reinoso_coverletter.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -187,8 +187,8 @@ Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 Package: xparse 2024-08-16 L3 Experimental document command parser
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty
 Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
- (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def))) (./config.tex) (./coverletter.aux)
-\openout1 = `coverletter.aux'.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def))) (./config.tex) (./Allen_reinoso_coverletter.aux)
+\openout1 = `Allen_reinoso_coverletter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -258,9 +258,9 @@ LaTeX Font Info:    ... okay on input line 10.
 \everyMPtoPDFconversion=\toks20
 )
 Package hyperref Info: Link coloring OFF on input line 10.
- (./coverletter.out) (./coverletter.out)
+ (./Allen_reinoso_coverletter.out) (./Allen_reinoso_coverletter.out)
 \@outlinefile=\write3
-\openout3 = `coverletter.out'.
+\openout3 = `Allen_reinoso_coverletter.out'.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--18
@@ -296,24 +296,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--49
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./coverletter.aux)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Allen_reinoso_coverletter.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `coverletter.out' has not changed.
+Package rerunfilecheck Info: File `Allen_reinoso_coverletter.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  12242 strings out of 473190
- 210991 string characters out of 5715801
- 609806 words of memory out of 5000000
+ 211257 string characters out of 5715801
+ 610952 words of memory out of 5000000
  35408 multiletter control sequences out of 15000+600000
  559452 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,586b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,600b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on coverletter.pdf (1 page, 51439 bytes).
+Output written on Allen_reinoso_coverletter.pdf (1 page, 50515 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream

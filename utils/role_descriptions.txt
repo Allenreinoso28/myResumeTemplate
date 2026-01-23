@@ -13,3 +13,13 @@ McDonald’s (Crew Trainer) — 3 points
     - Coordinated tasks and communication during high-volume hours to maintain workflow efficiency, service quality, and team performance.
 
     - Demonstrated reliability under pressure by managing priorities, resolving customer issues, and maintaining consistently high service standards.
+
+
+TMR Project 
+My favourite project that I’ve worked on is a graphical user interface for my university’s robotics team, TorontoMetRobotics. The GUI is like a bridge between our rover’s onboard systems and our operators, conveying complex hardware and software data into a clear, reliable, and actionable interface.
+
+I led the development of a React and TypeScript-based web dashboard that consumes real-time data streams from the rover using WebSocket-based communication. The interface displays live telemetry such as system status, sensor data, and diagnostics, enabling operators to monitor rover health and respond quickly to issues. In addition to observability, the tool allows operators to actively control rover behaviour, including defining coordinates and waypoints for autonomous navigation and configuring controller bindings to support different operator preferences and competition scenarios.
+
+A major focus of my work was designing the system to be resilient, intuitive, and easy to use under pressure, since failures or unclear information during competition can directly impact performance. This meant prioritizing clear data visualization, predictable state management, and proper handling of real-time updates. I collaborated closely with hardware, firmware, and autonomy teams to ensure the interface reflected real operational needs rather than just technical assumptions.
+
+I think that this project mirrors the kind of engineering I’m excited about at Wealthsimple, building trustworthy, user-centered software where clarity, and reliability matter. Leading this project strengthened my ability to think beyond implementation details and focus on how technical decisions affect end users, especially in high-stakes, real-world environments.

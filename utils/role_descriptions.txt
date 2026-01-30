@@ -23,3 +23,21 @@ I led the development of a React and TypeScript-based web dashboard that consume
 A major focus of my work was designing the system to be resilient, intuitive, and easy to use under pressure, since failures or unclear information during competition can directly impact performance. This meant prioritizing clear data visualization, predictable state management, and proper handling of real-time updates. I collaborated closely with hardware, firmware, and autonomy teams to ensure the interface reflected real operational needs rather than just technical assumptions.
 
 I think that this project mirrors the kind of engineering I’m excited about at Wealthsimple, building trustworthy, user-centered software where clarity, and reliability matter. Leading this project strengthened my ability to think beyond implementation details and focus on how technical decisions affect end users, especially in high-stakes, real-world environments.
+
+
+CV questions
+
+In high school, I focused mainly on the arts and got accepted into an architecture program because I was interested in structure, precision, and thoughtful design. While studying architecture, I learned to tackle problems with intention, justify my decisions, and improve my work through careful revisions. The program required patience, discipline, and strong attention to detail.
+
+At some point, I realized that even though I enjoyed design, I was more driven by logical problem-solving. This realization eventually led me to switch to computer science. The transition pushed me to grow in commitment and humility. I had to quickly build a solid foundation in core topics like data structures, algorithms, and operating systems, catching up to my peers who had a head start before university. 
+
+Another key experience was joining my university’s robotics team. I learned a lot from many talented peers and later took on a leadership role. Working on software that supported a physical system brought a new level of responsibility and exposure to real-world conditions and challenges. The decisions I made had immediate consequences for the team, highlighting the importance of accuracy, clear communication, and follow-through. That experience shaped how I approach engineering today and deepened my sense of ownership and accountability when building software.
+
+
+I began working part-time at McDonald’s in high school and have continued there to this day. What started as my first job quickly became a long-term commitment where I was cross-trained across multiple stations, including front counter, drive-thru, and kitchen operations. Over time, this consistency and versatility led to my promotion to Crew Trainer.
+
+As a Crew Trainer, I took on greater responsibility by onboarding and mentoring new employees, ensuring procedures were followed, and helping maintain efficiency during high-pressure shifts. This role taught me the importance of teamwork and clear communication, especially in fast-paced environments where everyone relies on one another. It also helped me develop leadership skills and a strong work ethic, which I continue to carry into my academic and technical projects.
+
+Alongside my university studies, I have maintained long-term part-time employment at McDonald’s, where I currently work as a Crew Trainer. While being cross-trained across multiple roles and taking on leadership responsibilities, I have consistently prioritized maintaining a strong GPA. Balancing academic demands with professional responsibilities has required strong time management, discipline, and reliability.
+
+In parallel, I lead the web development efforts for my university’s robotics team, Toronto Met Robotics, where I am responsible for designing and maintaining tools used by operators during rover missions. Managing this technical leadership role alongside coursework and part-time work has further strengthened my ability to coordinate with teams, communicate clearly, and deliver reliable systems under time constraints. These experiences have shaped how I approach both learning and building software, with a strong focus on structure, accountability, and follow-through.

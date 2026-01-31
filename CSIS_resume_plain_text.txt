@@ -1,0 +1,179 @@
+ALLEN REINOSO
+
+Toronto, ON
+647-335-1452
+allen.j.reinoso@gmail.com
+linkedin.com/in/allen-reinoso
+github.com/Allenreinoso28
+allenreinoso.com
+
+EDUCATION
+
+Toronto Metropolitan University (Formerly Ryerson University)
+Bachelor of Science (Honours), Computer Science - Co-op Program
+Toronto, ON
+September 2023 - Expected April 2028
+
+Cumulative GPA: 3.81 out of 4.33 (Dean's List equivalent standing)
+
+Relevant Coursework: Data Structures and Algorithms, Software Development, Database Systems, Artificial Intelligence, Computer Security, Object-Oriented Programming, Discrete Mathematics
+
+Currently in third year of program, entering fourth year in Fall 2027. Enrolled in co-op stream which integrates academic terms with work terms. Scheduled for co-op work term from May 2027 through August 2027. Maintaining full-time student status throughout degree program.
+
+TECHNICAL SKILLS
+
+Programming Languages: Proficient in Python, JavaScript, Java, SQL, C, C++. Experience gained through academic coursework, personal projects, and professional development work. Used Python for backend development, data processing, and algorithm implementation. Used JavaScript and Java for full-stack web development and object-oriented programming. Used C and C++ for systems programming and algorithm optimization.
+
+Frameworks and Libraries: React (component-based UI development), Next.js (server-side rendering and routing), Node.js (backend JavaScript runtime), Flask (Python web framework), D3.js (data visualization). Experience building modern web applications using these frameworks in both academic and professional contexts.
+
+Tools and Technologies: Docker (containerization and deployment), Git and GitHub (version control and collaboration), MongoDB (NoSQL database), SQLite (relational database), Tailwind CSS (utility-first CSS framework), Auth0 (authentication and authorization). Practical experience using these tools for software development, deployment, and team collaboration.
+
+Core Concepts: Data Structures (arrays, linked lists, trees, graphs, hash tables), Algorithms (sorting, searching, graph algorithms, dynamic programming), REST APIs (design and implementation), Agile methodology (sprint planning, standup meetings, retrospectives), Full-Stack Development (frontend and backend integration), Object-Oriented Programming (encapsulation, inheritance, polymorphism), Software Development Life Cycle (requirements, design, implementation, testing, deployment, maintenance).
+
+Additional Technical Knowledge: Database design and optimization, web security best practices, responsive design principles, performance optimization, debugging and troubleshooting, technical documentation, code review practices, Linux command line operations.
+
+PROFESSIONAL EXPERIENCE
+
+Web Development Lead
+Toronto MetRobotics (Competitive robotics team at Toronto Metropolitan University)
+Toronto, ON
+September 2024 - Present
+
+Leading web development efforts for university competitive robotics team competing in international University Rover Challenge. Managing frontend development of mission-critical dashboard application used during competition operations.
+
+Developed and currently maintain web-based real-time dashboard application supporting robotics operations and decision-making during competitions. Application displays live telemetry data, sensor readings, and operational status to support team strategy and rover control. Built using React for frontend framework, JavaScript for programming logic, and integrated with ROS2 (Robot Operating System 2) for real-time data communication.
+
+Collaborated extensively with cross-functional teams including electrical engineers, mechanical engineers, and software developers to define technical requirements, align project deliverables, and ensure software interfaces properly with hardware systems. Participated in weekly team meetings to coordinate development efforts and provide project updates.
+
+Designed and implemented React-based user interface to visualize live telemetry data transmitted via ROS2 messaging system. Developed custom visualization components for displaying rover location, sensor data, camera feeds, and system status. Implemented WebSocket connections for real-time data streaming with minimal latency. Created modular component architecture enabling easy addition of new features and visualizations.
+
+Took full ownership of delegated development responsibilities from initial feature planning through deployment and maintenance. Managed project timeline, prioritized features based on team needs, conducted testing across different browsers and devices, and deployed updates during competition preparation. Ensured reliable performance and high-quality results meeting operational requirements.
+
+Provided technical mentorship to junior developers on the team. Conducted code reviews to maintain code quality and consistency. Explained technical concepts including React component lifecycle, state management, API integration, and debugging techniques. Created documentation for codebase to facilitate knowledge transfer and future maintenance.
+
+Optimized application performance to handle high-frequency real-time data updates without browser slowdown. Implemented React performance optimization techniques including memoization, efficient state management, and selective component re-rendering. Improved dashboard responsiveness by approximately 60 percent during high-frequency data updates.
+
+Key Technologies Used: React, JavaScript, ROS2, WebSockets, HTML, CSS, Git, GitHub
+
+Skills Developed: Full-stack web development, real-time systems programming, cross-functional collaboration, technical leadership, code review, performance optimization, agile development practices
+
+Team Lead and Crew Trainer
+McDonald's Restaurant
+Scarborough, ON
+September 2020 - Present
+
+Promoted to Team Lead and Crew Trainer role based on demonstrated leadership abilities, strong work ethic, and excellent performance. Responsible for training new employees, ensuring operational standards compliance, and supporting daily restaurant operations.
+
+Trained and mentored over 15 employees on restaurant procedures, food safety protocols, customer service standards, and equipment operation. Developed training materials and conducted both one-on-one and group training sessions. Monitored trainee progress and provided constructive feedback to support skill development. Ensured all trainees understood and adhered to quality standards and workplace safety procedures.
+
+Communicated effectively with team members across all levels and with restaurant management to coordinate tasks, resolve operational issues, and maintain smooth operations in fast-paced, high-pressure environment. Served as liaison between crew members and management, facilitating clear communication of expectations and feedback.
+
+Maintained workplace integrity by consistently following established procedures, addressing policy violations appropriately, and modeling professional behavior. Enforced quality standards for food preparation, cleanliness, and customer service. Identified and resolved conflicts among team members to maintain positive work environment.
+
+Demonstrated strong problem-solving abilities by quickly addressing customer complaints, equipment malfunctions, staffing shortages, and other operational challenges. Made decisions under pressure to maintain service quality during peak hours and unexpected situations.
+
+Took initiative to improve training processes by identifying gaps in existing procedures and developing supplementary training materials. Suggested operational improvements to management that increased efficiency and reduced errors.
+
+Skills Developed: Leadership and mentorship, effective communication, conflict resolution, training and development, problem-solving under pressure, time management, customer service, teamwork, adaptability, attention to detail, maintaining standards in fast-paced environment
+
+TECHNICAL PROJECTS
+
+Algorithm Visualizer Web Application (AlgoBuddy)
+April 2025
+Technologies: React, JavaScript, HTML, Tailwind CSS, D3.js
+Live Site: algobuddy.vercel.app
+GitHub Repository: github.com/Allenreinoso28/AlgoBuddy
+
+Independently designed and built comprehensive algorithm visualization platform to support interactive learning of core computer science concepts. Application enables users to visualize step-by-step execution of common algorithms with animated graphics and detailed explanations.
+
+Implemented eight different algorithms spanning multiple categories including sorting algorithms (bubble sort, insertion sort, merge sort, quick sort), searching algorithms (linear search, binary search), and graph algorithms (breadth-first search, depth-first search). For each algorithm, programmed the logic, created visual representation, and developed step-by-step execution control.
+
+Created three custom visualizers with animated step-by-step execution using D3.js data visualization library. Developed animation system showing how data structures change during algorithm execution. Implemented controls for play, pause, step forward, step backward, and speed adjustment to give users full control over visualization pace.
+
+Designed complete application architecture including component structure, state management approach, and user interface layout. Built modular React components enabling easy addition of new algorithms and visualizations. Implemented responsive design ensuring application works on desktop and mobile devices.
+
+Deployed application to public web hosting (Vercel) and currently maintain the codebase. Application has been used by fellow students as study tool for data structures and algorithms course.
+
+Technical Accomplishments: Designed full application architecture from scratch. Implemented complex algorithm logic in JavaScript. Created smooth animations using D3.js. Built responsive, intuitive user interface. Managed application state efficiently. Wrote clean, well-documented code following best practices.
+
+Skills Developed: React development, JavaScript programming, data visualization, algorithm implementation, UI/UX design, state management, animation programming, web deployment, technical documentation
+
+Budget Expense Tracker Web Application
+August 2024
+Technologies: Python, Flask, SQLite, HTML, CSS, JavaScript
+GitHub Repository: github.com/Allenreinoso28/budget-expense-tracker-python
+
+Developed full-stack web application enabling users to track income and expenses with persistent data storage and visualization. Application allows users to add transactions, categorize expenses, view spending patterns, and generate financial reports.
+
+Implemented complete backend using Python and Flask web framework. Designed and created RESTful API endpoints for all CRUD operations (Create, Read, Update, Delete) on financial transactions. Implemented proper error handling and input validation to ensure data integrity. Used Flask sessions for user state management.
+
+Designed and implemented SQLite relational database schema for storing user accounts, transactions, and categories. Created normalized database structure to minimize redundancy and maintain data integrity. Wrote SQL queries for data retrieval, aggregation, and reporting. Implemented database migrations for schema updates.
+
+Built responsive frontend using HTML, CSS, and JavaScript. Created interactive forms for transaction entry with client-side validation. Developed data visualization components to display spending patterns by category and over time. Implemented dynamic content updates using JavaScript DOM manipulation.
+
+Optimized frontend performance achieving average Lighthouse score of 90 plus across performance, accessibility, best practices, and SEO metrics. Implemented lazy loading for images, minified CSS and JavaScript, optimized database queries to reduce page load times, and ensured responsive design for mobile devices.
+
+Deployed application to web server and tested thoroughly across different browsers and devices. Created comprehensive user documentation. Application demonstrates full software development lifecycle from requirements through deployment.
+
+Technical Accomplishments: Built complete full-stack application independently. Designed efficient database schema. Implemented secure RESTful API. Created responsive, performant frontend. Achieved high performance scores through optimization. Deployed production-ready application.
+
+Skills Developed: Full-stack web development, Python programming, Flask framework, database design, SQL, REST API design, frontend development, performance optimization, web security basics, deployment
+
+LeetCode Study Platform (In Development)
+October 2024 - Present
+Technologies: React, Next.js, TypeScript, MongoDB, Auth0, Docker
+GitHub Repository: github.com/Allenreinoso28/leetcode-buddy
+
+Currently developing full-stack social platform connecting LeetCode users through shared profiles, problem discussions, and collaborative learning. Project demonstrates modern web development practices including TypeScript for type safety, Next.js for server-side rendering, and MongoDB for scalable data storage.
+
+Implemented user authentication and authorization system using Auth0 integration. Configured secure login flows, session management, and protected routes. Ensured proper security practices for handling user credentials and personal information.
+
+Set up Docker containerization for consistent development and deployment environments. Created Docker configuration files for application services and database. Used Docker Compose for orchestrating multi-container application. This enables easy deployment and scaling.
+
+Designed database schema for MongoDB to store user profiles, problem solutions, discussions, and social connections. Implemented database queries for retrieving and updating user data efficiently. Planned for horizontal scaling to support growing user base.
+
+Building modern React frontend with TypeScript for improved code quality and developer experience. Implementing responsive UI components, state management, and API integration. Following best practices for component architecture and code organization.
+
+Project Status: Core authentication system complete. Database schema designed and implemented. Frontend framework established. Currently implementing social features and discussion forums. Planning deployment to cloud platform.
+
+Skills Being Developed: Next.js framework, TypeScript programming, MongoDB database, Auth0 authentication, Docker containerization, modern React patterns, API integration, cloud deployment
+
+ACADEMIC ACHIEVEMENTS AND ACTIVITIES
+
+Maintained Dean's List equivalent standing (3.81 GPA out of 4.33) throughout university program demonstrating consistent academic excellence and strong work ethic.
+
+Completed rigorous Computer Science curriculum including advanced courses in Data Structures and Algorithms, Software Development, Database Systems, Artificial Intelligence, and Computer Security.
+
+In Data Structures and Algorithms course, implemented complex data structures from scratch including linked lists, binary search trees, graphs, and hash tables. Analyzed algorithm time and space complexity using Big O notation. Solved challenging algorithmic problems requiring creative problem-solving.
+
+In Software Development course, learned industry-standard development practices including Agile methodology, version control with Git, code review processes, testing strategies, and collaborative development. Participated in team software project following complete SDLC from requirements gathering through deployment.
+
+In Database Systems course, gained hands-on experience with database design, normalization, SQL query optimization, transaction management, and database administration concepts. Designed database schemas for real-world applications and wrote complex queries involving joins, subqueries, and aggregation.
+
+In Artificial Intelligence course (currently in progress), learning machine learning algorithms, neural networks, and AI techniques. Implementing models using Python and popular libraries. Working on projects involving classification, regression, and natural language processing.
+
+In Computer Security course, studied cryptography, network security, web security, secure coding practices, and vulnerability assessment. Learned about common security threats and defensive techniques. Completed labs on encryption, authentication, and penetration testing basics.
+
+Active member of Toronto MetRobotics competing in University Rover Challenge, international competition requiring teams to design and build Mars rover prototype. Contributes software development expertise to multidisciplinary team of 40 plus students.
+
+ADDITIONAL INFORMATION
+
+Canadian Citizen, eligible for Enhanced Top Secret security clearance
+
+Available for full-time work term May 2027 through August 2027 (4 months)
+
+Willing to relocate to Ottawa or other CSIS office locations for work term
+
+No illegal drug use, prepared to undergo security clearance process including polygraph and background investigation
+
+Comfortable working primarily in office environment as required by CSIS
+
+Strong English communication skills, willing to develop French language proficiency
+
+Proficient with Microsoft Office Suite (Word, Excel, PowerPoint) and Google Workspace
+
+Experience with remote collaboration tools including Slack, Zoom, and project management platforms
+
+Valid driver's license (G2)
+
+References available upon request

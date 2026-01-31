@@ -1,111 +1,270 @@
-Summer 2026 Co-Op - Computer Science, Cyber Security, and Applied Mathematics - Durham Region
-Location:  Oshawa, ON, CA, L1H 8W8
-Req ID:  54596
-Status: Contract (4 or 8 months)
+Government of Canada/ Gouvernement du Canada
+Search
+Search Canada.ca
+Search Canada.ca
+MenuMainMenu 
+You are here:
+Canada.ca Canadian Security Intelligence Service CSIS Jobs Student Opportunities
+Student: IT and Engineering
+Important
+Do not discuss your application with others (including on social media) besides your partner, or close family members - who should also be reminded about the need to be discreet.
 
-Working Conditions: On-site      
+Closing Date	2026-02-20
+Reference Number	27-968-STUIT-02
+Job Category	Co-op
+Internship program
+Student Employment
+Who Can Apply	Canadian Citizens
+Location	Ottawa, Ontario
+Toronto, Ontario
+Burnaby, British-Columbia
+Salary Range	Hourly Salary
+Status	Term - 4 to 16 months
+Language Requirement	Various language requirements
+Job Summary
+Work Term: Summer 2027 (May - August)
 
-Education Level: University or College, minimum 1st year completed 
+The Canadian Security Intelligence Service (CSIS) is seeking to hire students who are looking for a work term opportunity from May 2027 to August 2027.
 
-Base Location: Durham (Oshawa, Bowmanville, Pickering)
+CSIS is committed to building a workforce that is truly representative of the Canadians it serves by cultivating a diverse and inclusive workplace environment. This will be achieved by increasing employment equity group representation (including persons with disabilities, visible minorities, Indigenous peoples and women) at all levels within the organization through hiring and talent management practices. Should you require accommodation in relation to a disability, please notify us during the recruitment process, as we will ensure that appropriate accommodations are made (eg. specialized equipment, changes to the physical workspace) to provide employment opportunities for all qualified candidates. In support of achieving a greater, diverse and skilled workforce, we strongly encourage those individuals who belong to one or more of the employment equity groups to self-identify when applying.
 
-Shift: Days
+CSIS Offices in Canada are located on various ancestral and traditional lands. In the spirit of reconciliation, we acknowledge all Indigenous People across Canada and their connection to these lands.
 
-Travel: 10%
+CSIS is looking for students who thrive on tackling diverse challenges in a unique environment. If you are up for the challenge and want to join one of our highest performing teams, there is no doubt that your contributions to CSIS will provide a meaningful impact to our mission of helping keep Canadians safe against national security threats.
 
-Deadline to Apply: January 26, 2026
+CSIS offers opportunities for students to gain valuable experience in science and technology, with the possibility to return for multiple placements within the directorate.
 
-Salary Range: $32.78 - $43.68 per hour  
+Students will be given the opportunity to cultivate their skills and knowledge by being paired with experienced employees who will provide feedback during the work term. They will have the opportunity to broaden their knowledge and experience before choosing a career specialization.
 
- 
+The system will allow you to select only one location of work. If you are interested to be considered for various locations of work as mentioned above, please highlight, in your cover letter, the additional locations you would like to apply to.
 
-Electrify your career and help build a brighter tomorrow.
+Our program is designed to identify and develop potential full-time employees.
 
- 
+Special consideration may be given to those with a proficiency in both official languages of Canada.
 
-Every generation has a challenge that defines them. At OPG, we are calling on all innovators, disruptors, thought leaders and change-makers. Join us as we work to electrify life in one generation and build a sustainable future powered by our electricity, our ideas, and our people. Join OPG and make history.
+Science and Technologies offers a wide variety of specializations; you can apply to one or multiple areas of interest within the branch for student job opportunities.  
 
- 
+Placement will provide opportunities in the following areas:
 
-Whether you work in the skilled trades or are a business professional, a career at OPG is an opportunity to electrify your life on -- and off -- the job.
+Hands on work experience with projects;
+Teamwork and individual contributions;
+Exposure to knowledgeable and passionate subject matter experts;
+Collaborative work environments;
+Improve time and project management skills;
+Diverse work force.
+Summary of functions
+Students can cultivate their skills and gain valuable experience in the following fields:
 
- 
+Stream 1 - Database Administration 
 
-APPLYING TO OPG’S CO-OP PROGRAM
+Install, configure, monitor and support databases, performing database backups, restores/refreshes;
+Advise/assist developers in database design and queries best practices.
+Stream 2 - Embedded Systems Programming/Hardware
 
-This posting is for multiple co-op positions at Ontario Power Generation (OPG) starting in Summer 2026. Applicants will be reviewed and matched with OPG managers hiring students within their discipline. The job description and accountabilities below are broad and may not reflect the specific duties of each placement. If selected for an interview, you’ll receive details about the specific role, team, and responsibilities.
+Work with analog and digital electronic circuits and troubleshooting hardware/software/firmware within embedded systems;
+Assist with testing and evaluation of systems to ensure they meet their functional and operational requirements;
+Analyze test results and track issues resolution to ensure that systems can be successfully deployed operationally with high confidence;
+Gain experience with microcontroller architecture (Raspberry Pi, Arduino), embedded PC hardware or VME based single board computers, and ARM architectures.
+Stream 3 - IT Infrastructure Support
 
- 
+Provide operational infrastructure services that enable the collection of intelligence in order to advance CSIS’ investigations;
+Create and sustain a centralized operational environment that offers high performance and high-speed networks through the development of a core set of services of cost-effective, scalable and adaptive infrastructure;
+Maintain, support and administer elements in an Enterprise environment such as:  Linux/Windows servers, virtualization technologies (VMware, OpenStack); storage technologies (Storage Area Network, Network Attached Storage, backups/restores); identity and access management (LDAP, Active Directory); web infrastructure.
+Desktop software and hardware (Operating system (OS), firmware, group policies and SSCM).
+Stream 4 - IT/Network Security
 
-JOB OVERVIEW
+Research latest security practices. Validate operational tools and make recommendations for improvements to standard practices;
+Apply network security best practices involving commercial hardware and software;
+Develop and maintain SOC, software tools and scripts for system security audits;
+Assess/provide/use/validate secure network infrastructure for technical solutions;
+Test vulnerability of products or software, proof of concepts, refine requirements and conduct research;
+Perform vulnerability assessments, provide reports and recommendations;
+Install, configure and support security related products;
+Conduct in depth security assessments including but not limited to Statements of Sensitivity (SOS), Security Reviews, Threat and Risk Assessments (TRA) and Certification & Accreditations (C&A) or Security Assessment and Authorization (SA&A);
+Obtain solid foundation of Government of Canada IT Security standards;
+Learn how to work in a Security Operations Center environment;
+Familiarize oneself with Wireless Intruder Detection Systems (WIDS) and their role in IT Security;
+Participate in the forensic acquisition and analysis of various equipment using modern tools and techniques.
+Stream 5 - Networking/Network Engineering/Telecommunications
 
-As a Co-op Student at OPG, you’ll gain hands-on experience and develop valuable skills for your future career. You’ll work alongside colleagues from diverse backgrounds and contribute to projects that support a sustainable future.
+Develop tools for the delivery and processing of telecommunications data;
+Test and maintain mobile devices using networking protocols and software development tools;
+Analyze and configure LAN/WAN communications networks and appliances;
+Maintain, support and administer of LAN/WAN including switches, firewalls, routers etc.;
+Installation and cabling of IT hardware and desktop PCs. 
+Stream 6 - Software Development
 
- 
+Use programming language such as, but not limited to: Java, C#, Javascript, Python, C/C++ and Go;
+Perform development and integration of software systems using Pega Business Process Management (BPM) rules engine;
+Build tools, APIs, native or web-based frontends;
+Interact with end users and provide recommendations;
+Participate in designing, programming, testing, documenting and optimizing solutions;
+Learn best practices through mentorship and code review;
+Support or modernize legacy applications.
+Stream 7 - Specialized Intelligence Collection Systems
 
-KEY ACCOUNTABILITIES 
+Validate the functionality of technical solutions to ensure the capabilities will be effective in an operational environment;
+Provide/use/validate secure network infrastructure for technical solutions;
+Investigate, troubleshoot and determine remedial action to issues reported by clients;
+Configure and deploy various solutions involving networking equipment, computers, software applications and tools.
+Stream 8 - Support Technicians
 
-Contribute to real-world projects that align with your field of study and career interests.
-Collaborate with cross-functional teams to support project goals and deliverables.
-Apply classroom knowledge to practical, hands-on work assignments.
-Learn and adapt to new tools, technologies, and processes relevant to the industry.
-Assist with day-to-day tasks and ensure smooth operations within your assigned department. 
-Take ownership of delegated responsibilities and deliver quality results.
-Communicate effectively with team members, mentors, and stakeholders.
-Engage in mentorship opportunities to gain insights and guidance from experienced professionals.
- 
+Hardware repairs / setup (computer, printer, mouse, keyboard, etc.);
+Application Support (Troubleshoot / Resolve software issues, Assist with software installations and updates);
+Passwords Resets;
+Samsung Cell Phone Troubleshooting / Install;
+Network/ Connectivity Issues;
+Video Conference Support;
+File Transfers or Restoration (Microsoft Word, Excel, PowerPoint, etc.);
+Telephone and Fax Support;
+General IT Questions / Support.
+Stream 9 - Quality Assurance and Testing
 
-QUALIFICATIONS
+Ensure data quality and data assurance in a processing system for collection, organization, filtering, triaging, and reporting of data types, collected using various techniques on a big data system in a complexly distributed mission critical system;
+Assist with testing and evaluation of systems to ensure they meet user requirements;
+Coordinate with development and operational teams to identify valuable tests and writing/developing new test cases and participate in continuous improvement testing;
+Analyze test results and track issues until resolution;
+Use tools and systems that directly support the collection, processing, storage, handling and safeguarding.
+Stream 10 – Strategic Planning and Reporting
 
-Currently enrolled as a full-time, post-secondary student in a recognized institution, pursuing one of the following areas of study:
+Support in developing and implementing strategic plans to achieve organizational goals and objectives;
+Contribute to establish and track key measures to track progress towards strategic objectives;
+Participate in the collection, analysis, and interpretation of data to inform strategic decisions;
+Support in developing reports and communicating progress and results to stakeholders, including senior management, executives, and external partners;
+Develop and maintain relationships with stakeholders, including team members, program managers, and partners.
+Stream 11 - Cloud Platform Development and Security
+
+Support in developing and implementing strategic plans to achieve organizational goals and objectives;
+Contribute to establish and track key measures to track progress towards strategic objectives;
+Participate in the collection, analysis, and interpretation of data to inform strategic decisions;
+Support in developing reports and communicating progress and results to stakeholders, including senior management, executives, and external partners;
+Develop and maintain relationships with stakeholders, including team members, program managers, and partners.
+Stream 12 - Collaboration Support
+
+Work under the guidance of a Senior Project Manager from the Portfolio Management Office, who will mentor and support in learning the fundamentals of project coordination and technology solution delivery, providing hands-on experience and exposure to the project management lifecycle
+Assist in basic project administration tasks, such as updating project schedules, tracking progress, and maintaining project documentation;
+Learn the fundamentals of project risk management and assist in identifying potential issues;
+Help maintain project records, including project plans, status reports, and meeting minutes.
+Stream 13 – Technology Project Management
+
+Work under the guidance of a Senior Project Manager from the Portfolio Management Office, who will mentor and support in learning the fundamentals of project coordination and technology solution delivery, providing hands-on experience and exposure to the project management lifecycle
+Assist in basic project administration tasks, such as updating project schedules, tracking progress, and maintaining project documentation;
+Learn the fundamentals of project risk management and assist in identifying potential issues;
+Help maintain project records, including project plans, status reports, and meeting minutes.
+Stream 14 - IT Security/IT Risk Management
+
+Plan, research, and conduct comprehensive security assessments, including security categorizations, threat and risk assessments, and certification and accreditation activities to ensure the security of systems and services;
+Evaluate and assess security requirements for systems and services, and develop expertise in security risk assessment methodologies and best practices to inform security decision-making;
+Develop a deep understanding of the cyber security threat landscape, including government standards and requirements, and gain hands-on experience working in a Security Operations Center environment, utilizing tools such as Wireless Intruder Detection Systems (WIDS) to support IT security operations;
+Participate in security operations, risk management, and compliance activities, including forensic analysis and stakeholder collaboration;
+Assist in developing and maintaining security-related documentation, ensuring compliance with industry standards and regulatory requirements, and communicating security updates and standards to stakeholders in order to improve the organization’s security posture.
+Stream 15 - Artificial Intelligence/Machine Learning Development
+
+Design, develop, and deploy machine learning models using frameworks such as TensorFlow, PyTorch, and MLflow;
+Apply data science techniques such as data ingestion, data quality checking, data preprocessing, feature engineering, data transformation, data splitting, and model evaluation;
+Perform file format analysis, metadata and content extraction using tools, such as Apache Tika;
+Use IDEs and Notebooks such as VS Code and Jupyter for the development of data science and machine learning applications;
+Work with NVIDIA hardware and technologies such as Triton and AI Enterprise to configure and deploy training and inferencing infrastructure;
+Participate in designing, testing, and optimizing AI/ML models and systems;
+Explore and apply AI/ML technologies and techniques such as natural language processing, Computer Vision, Large Language Models, Facial Recognition, and Neural Optical Character Recognition;
+Fine-tune pre-trained models. 
+Education
+Registered full-time in one of the following academic paths at the time of placement: 
+
+College Diploma student in their 3rd year;
+Undergraduate degree student in their 3rd year or higher;
+Graduate-level student (Master’s or Ph.D.)
+Must be in a field of study relevant to the functions of the position for which the candidates apply to; such as, but not limited to:
+
 Computer Science
-Applied Mathematics 
-IT/ Information System
-Business Analytics 
-Data Science 
-Programming 
-Cyber Security 
-Have completed a minimum of 1st year in college OR an undergraduate program at university by the start of the opportunity. 
-Returning to full-time studies in the same program following the completion of the work term OR require the work term or co-op placement to graduate. 
-Have a minimum average of 70% cumulative GPA (transcript must be included in application).
- 
+Computer and Electrical Engineering
+Engineering in technical areas
+Mechanical Engineering
+Network Security
+Information Technology
+Telecommunications
+Software Engineering
+Informatics
+Applicants must be registered as a full-time, post-secondary student in an accredited academic institution recognized in Canada during their work term. 
 
-Important note for Co-Op Applicants: When submitting your application, please include all of your work and volunteer experience on your resume, even if you feel it may not be directly relevant. This allows us to gain a complete picture of your professional background. 
+Experience
+Experience may have been acquired through formal and informal settings (e.g. school, volunteer work experience or projects). 
 
- 
+Assets
+Stream 6 - Software Development
 
-The successful candidate will exhibit uncompromising integrity and commitment to upholding corporate values, and the OPG Code of Business Conduct.
+Develop on mobile platforms (iOS / Android) with one or more mobile applications focused programming languages (e.g., Java, Kotlin, Objective C, Swift);
+Develop Web application components such as frontend or backend
+Desktop application development;
+Linux environments and Bash scripting (Ubuntu, Mint, Debian, Fedora, etc.)
+Encryption technologies (SSL, RSA, AES, etc.);
+Use programming language such as, but not limited to: Java/Kotlin, C#, Javascript/Typescript, Python, C/C++ and Go;
+Processus d’intégration continus et déploiement continu (CI/CD),  technologies de conteneurs et orchestration ( Kubernetes, Docker).
+Stream 10 - Strategic Planning and Reporting
 
- 
+Data collection, data analytics and dashboard reporting;
+Leadership and stakeholder management skills;
+Experience in reporting tools like PowerBI, Tableau;
+Familiarity or experience in ServiceNow platform, including, but not limited to, Strategic Planning workspace.
+Competencies
+Problem Solving
+Analytical Skills
+Teamwork
+Client Service
+Initiative
+Notes
+How to submit application:
 
-OPG is committed to fostering an inclusive, equitable, and accessible environment. If you require accommodation during the selection process, please contact AODA@opg.com
+Applicants must include the following information in their cover letter in order to be given further consideration:
 
- 
+Name of Student:
+Graduation date:
+Program of Study:
+Post Secondary School:
+Location of interest:
+Indicate your desired location of work if applicable.
+Travel costs benefits may apply. Further information will be disclosed during the interview process.
+Specify if you are enrolled in a co-op placement, internship, or student job.
+Availability: What is the length of your term (4, 8, 12 or 16 months)?
+Your current year of study and expected graduation date.
+Tips for your Cover Letter and Resume:
 
-What makes a career at OPG different?
+Tell us your story: why do you want to work for CSIS?
+Work objectives.
+Technical abilities (where applicable).
+Volunteer or work Experience (where applicable).
+Projects (where applicable).
+While we continue to explore opportunities for flexible work arrangements, the majority of work in our organization must be done in the office and cannot be performed at home.
 
-With operations across Ontario and the United States, OPG is one of the most diverse power producers in North America. As the largest generator in Ontario, we meet approximately 50% of the province’s electricity needs, largely from low-carbon sources like nuclear and hydro. 
+Salary Range
+College or undergraduate
 
- 
+Annual Rate: $46,548-$66,035
 
-As we work to achieve our vision of Electrifying life in one generation, OPG and our family of companies are also helping advance the development of new low-carbon technologies such as Small Modular Reactors (SMRs), refurbishment projects, and electrification initiatives to help power the growing demands of a growing economy. Join OPG and make history.
+Hourly Rate: $23.79-$33.75
 
- 
+Graduate 
 
-Please submit your application online at https://jobs.opg.com/.  OPG thanks all those who apply; however, only candidates considered for an interview will be contacted.
+Annual Rate: $53,220-$67,151
 
- 
+Hourly Rate: $27.20-$34.32
 
-#LI-Onsite
+Reference Links
+Hourly salary
+Public Service Commission Approved CO-OP (Co-operative Education)/Internship Programs
+Self-assessment language tests
+Security Requirements
+Candidates must be eligible to receive an Enhanced Top Secret security clearance. The process involves a security interview, a polygraph, and a background investigation that includes credit and financial verifications. The use of illegal drugs is a criminal offense. Drug use is an important factor considered in your reliability and suitability assessment during the selection process. Therefore it is important not to use any illegal drugs from the time you submit your application.
+Others
+Important
+Applicants must clearly demonstrate in their application how they meet each Education and Experience criteria. Failure to do so will result in the applicant being screened out of the career opportunity.
 
-Please note: All job postings at OPG are to fill existing vacancies within our organization. 
+CSIS is a separate employer and is not subject to the Public Service Employment Act (PSEA). CSIS has its own classification, compensation system, and a different staffing regime. As such, we use a different staffing process and terminology.
 
-OPG may use artificial intelligence (AI) tools as part of the applicant screening process. However, applications will also be reviewed by a member of our Recruitment team to ensure a fair and thorough assessment.
+CSIS is committed to building a workforce that is truly representative of the Canadians it serves by cultivating a diverse and inclusive workplace environment. This will be achieved by increasing employment equity group representation (including persons with disabilities, visible minorities, Indigenous peoples, and women) at all levels within the organization through hiring and talent management practices. Gaps have been identified among Indigenous peoples and visible minorities for this position. We will also ensure that appropriate accommodations are made (e.g., specialized equipment, changes to physical workspace) to provide employment opportunities for all qualified candidates. In support of achieving a greater, diverse and skilled workforce, we strongly encourage those individuals who belong to one or more of the employment equity groups to self-identify when applying. 
 
-The base salary range considers many factors including, but not limited to experience, education, and training, including any collective agreement requirements for union represented positions. It is not typical for the salary to be offered near the top of the range, and salary is dependent on numerous factors. For management roles, the base salary range does not represent the total compensation package. The total compensation package for regular full-time management roles includes pay-for-performance programs for annual and medium time periods. Maintaining a high-performance culture and excellence is a core expectation of every member of our leadership team and is rewarded through the established compensation framework.
+Should you require accommodation in relation to a disability, please tell us at the beginning of the selection process. This information will be kept confidential. 
 
-OPG is committed to employment equity. As such, we encourage applicants from equity-seeking communities (Indigenous Peoples, racialized persons, persons with disabilities, and women). We strongly believe that alleviating the under-representation of equity-seeking individuals will create a stronger OPG team and allow us to better serve the needs of our diverse communities.
+CSIS Offices in Canada are located on various ancestral and traditional lands.  In the spirit of reconciliation, we acknowledge all Indigenous People across Canada and their connection to these lands.
 
-In order to fulfill the above-mentioned purpose, priority in hiring may be given to qualified persons who self-identify as a member of equity-seeking groups as identified in the application process. This initiative constitutes a special program under the Human Rights Code/Canadian Human Rights Act.
-
-
+The personal information provided in your application is protected under the Privacy Act and will be held in Personal Information Bank SIS/P-PU-025.
